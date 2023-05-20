@@ -17,3 +17,5 @@ Here are some ideas to get you started:
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aksy2512&theme=radical)
 
+![](https://komarev.com/ghpvc/?username=aksy2512)
+
